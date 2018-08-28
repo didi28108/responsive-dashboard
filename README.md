@@ -477,3 +477,5 @@ module.exports = {
     port: 47000
   }
 }
+
+from https://www.michael-iriarte.com/articles/responsive-vue-dashboard/index.html#/
